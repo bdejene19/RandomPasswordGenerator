@@ -1,5 +1,5 @@
 ### Deployed Live Version
-- Link
+- https://bdejene19.github.io/RandomPasswordGenerator/
 
 # Password Generator
 
