@@ -1,4 +1,15 @@
-# 03 JavaScript: Password Generator
+### Deployed Live Version
+- Link
+
+# Password Generator
+
+## Live Version Screen Shot
+![Screenshot of live working app. Generates password when you click "Generate Password"](./Assets/appLiveDemo.png)
+
+
+## About 
+This application allows a user to have a randomly generated password based on a set amount of criteria the user has defined. When the red button 'Generate Password' is clicked, a series of prompt and confirm messages will occur. The purpose of these prompts/confirms is to gain criteria for the random password that will be generated. Once all criteria has been filled, it will be validated. If the criteria set are valid then a random password will be generated and displayed on the screen within the text area.
+
 
 ## Your Task
 
@@ -38,7 +49,6 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
 ## Grading Requirements
 
